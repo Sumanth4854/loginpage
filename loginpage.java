@@ -13,4 +13,7 @@ class login
     void notification(){
         
     }
+    void printdata(){
+
+    }
 }
