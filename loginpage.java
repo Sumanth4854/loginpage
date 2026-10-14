@@ -4,7 +4,10 @@ class login
         System.out.println("login page");
     }
     void f1(){
-        
+
+    }
+    void otp(){
+        System.out.println("otp option is added");
     }
 
     void notification(){
