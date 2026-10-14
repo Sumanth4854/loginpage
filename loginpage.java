@@ -6,4 +6,8 @@ class login
     void f1(){
         
     }
+
+    void notification(){
+        
+    }
 }
